@@ -9,7 +9,7 @@
 <body>
 	<div class="container mt-3">
         <div class="col-md-6 offset-md-3">
-            <h1 class="text-center mb-3">Fill the product detail</h1>
+            <h1 class="text-center mb-3">Fill Product Details</h1>
             <form action="handle-product" method="post">
                 <div class="form-group">
                     <label for="name">Product Name</label>

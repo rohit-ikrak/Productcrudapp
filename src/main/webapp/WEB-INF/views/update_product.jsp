@@ -9,7 +9,7 @@
 <body>
 	<div class="container mt-3">
         <div class="col-md-6 offset-md-3">
-            <h1 class="text-center mb-3">Update product details</h1>
+            <h1 class="text-center mb-3">Update Product Details</h1>
             <form action="${pageContext.request.contextPath}/update-product" method="post">
                 <div class="form-group">
                 	<label for="productid">Product Id</label>

@@ -8,10 +8,11 @@
 <meta charset="ISO-8859-1">
 </head>
 <body>
+	<h1 class=" welcometitle text-center mb-3"><u>Welcome Dear User</u></h1>
 	<div class="container mt-3">
 		<div class="row">
 			<div class="col-md-12">
-				<h1 class="text-center mb-3">Welcome to Product App</h1>
+				<h1 class="content text-center mb-3">List of Products</h1>
 				<table class="table">
 					<thead class="thead-dark">
 						<tr>
