@@ -19,7 +19,7 @@
                         class="form-control" 
                         name="name" 
                         id="name" 
-                        placeholder="Enter the product name here" 
+                        placeholder="Product Name" 
                         value="${product.name}"/>
                 </div>
                 <div class="form-group">
@@ -28,7 +28,7 @@
                         name="description" 
                         id="description" 
                         rows="5" 
-                        placeholder="Enter the product description">${product.description}
+                        placeholder="Product Description">${product.description}
                     </textarea>
                 </div>
                 <div class="form-group">
